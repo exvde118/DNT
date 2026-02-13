@@ -1,0 +1,6 @@
+DNT.exe
+downloads/
+whisper/
+*.wav
+*.txt
+temp_*

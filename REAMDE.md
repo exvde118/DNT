@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Скачать-v1.0-blue?logo=github)](https://github.com/ваш-логин/DNT/releases/latest/download/DNT_v1.0.zip)
+
 DNT (Download & Transcribe) - утилита для мгновенной транскрибации видео в текст. 
 
 СНАЧАЛА копируете ссылку на видео и ТОЛЬКО ПОТОМ запускаете программу. 

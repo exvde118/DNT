@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Скачать-v1.0-blue?logo=github)](https://github.com/ваш-логин/DNT/releases/latest/download/DNT_v1.0.zip)
+Скачать полную версию: [DNT.zip](https://github.com/exvde118/DNT/releases)
 
 DNT (Download & Transcribe) - утилита для мгновенной транскрибации видео в текст. 
 
@@ -14,4 +14,4 @@ DNT (Download & Transcribe) - утилита для мгновенной тра�
 https://t.me/exvDEV
 -------------------
 
-Скачать полную версию: [DNT.zip](https://github.com/exvde118/DNT/releases)
+
